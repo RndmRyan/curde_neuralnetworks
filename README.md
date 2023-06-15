@@ -2,7 +2,7 @@
 This is a very simplistic attempt of indulging in Neural Networks, for our Operating Systems Course Project. 
 
 ## NOTE
-Before testing the project, create a folder with the name "allpipes"
+Before testing the project, make sure to extract the zip folder, since it will be required to store pipes and not let it malfunction. Make sure that you paste the allpipes folder alongside the other code files, and be careful that inside the allpipes folder are 2 folders named "f_prog" and "b_prog".
 
 ## Run Files
 This code is written to be run on Linux, so be mindful of that too.
